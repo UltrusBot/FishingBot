@@ -1,0 +1,23 @@
+{
+  "name": "fishingbot",
+  "version": "1.0.0",
+  "description": "A Fishing Bot for Discord!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ultraguy/FishingBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ultraguy/FishingBot/issues"
+  },
+  "homepage": "https://github.com/Ultraguy/FishingBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0"
+  }
+}
